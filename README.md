@@ -5,7 +5,7 @@
 
 <div id="badges" align= "center">
   <a href="https://t.me/annaplygun">
-    <img src="https://github.com/file-icons/icons/blob/master/svg/Telegram.svg" width="32" height="32" alt="Telegram Badge"/>
+    <img src="https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/illustrations/third-party-logos/integrations-logos/telegram.svg" width="32" height="32" alt="Telegram Badge"/>
   </a>
 </div>
 
