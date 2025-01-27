@@ -11,13 +11,18 @@ As a passionate learner and aspiring software developer, I aim to bridge the gap
 I am deeply interested in the realms of programming and data science, with a particular focus on backend development and machine learning. My academic journey has equipped me with the foundational knowledge needed to tackle complex problems in this rapidly evolving field. I welcome opportunities to collaborate on projects that push the boundaries of what is possible with technology.
 
 # ⚡Skills
-## Machine Learning: While I acknowledge the need to strengthen my mathematical foundation, I have practical experience working with classical models and boosting algorithms. I am motivated to delve deeper into this fascinating field to enhance my capabilities in deep learning and artificial intelligence.
+## Machine Learning:
+While I acknowledge the need to strengthen my mathematical foundation, I have practical experience working with classical models and boosting algorithms. I am motivated to delve deeper into this fascinating field to enhance my capabilities in deep learning and artificial intelligence.
 
-## Backend Development: I have hands-on experience with Django, and I am proficient in object-oriented programming. I am also familiar with containers using Docker, version control with Git, and building APIs 
+## Backend Development: 
+I have hands-on experience with Django, and I am proficient in object-oriented programming. I am also familiar with containers using Docker, version control with Git, and building APIs 
 
-## with REST and FastAPI. I am in the process of systematizing my knowledge in these areas to enhance my development skills.
+## with REST and FastAPI. 
+I am in the process of systematizing my knowledge in these areas to enhance my development skills.
 
-## Databases: I have a solid understanding of SQL languages like PostgreSQL and MySQL, along with basic knowledge of MongoDB. I am keen on optimizing database interactions and improving data handling efficiency in my projects.
+## Databases: 
+I have a solid understanding of SQL languages like PostgreSQL and MySQL, along with basic knowledge of MongoDB. I am keen on optimizing database interactions and improving data handling efficiency in my projects.
+
 # 😄 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
