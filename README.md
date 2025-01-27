@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ## ✨Hello! My name is Anna Plygun, and I am currently studying Applied Mathematics and Computer Science at the Financial University under the Government of the Russian Federation.✨
 
 As a passionate learner and aspiring software developer, I aim to bridge the gap between theory and practice in the field of Artificial Intelligence.
