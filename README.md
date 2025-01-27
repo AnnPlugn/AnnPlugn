@@ -18,7 +18,7 @@ I am deeply interested in the realms of programming and data science, with a par
 ## with REST and FastAPI. I am in the process of systematizing my knowledge in these areas to enhance my development skills.
 
 ## Databases: I have a solid understanding of SQL languages like PostgreSQL and MySQL, along with basic knowledge of MongoDB. I am keen on optimizing database interactions and improving data handling efficiency in my projects.
-# 😄
+# 😄 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
