@@ -1,13 +1,9 @@
 
-<div id="header" style="text-align: center;">
+<div id="header" align ="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Header Image"/>
 </div>
 
-<div id="header" style="text-align: center;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Header Image"/>
-</div>
-
-<div id="badges" style="text-align: center;">
+<div id="badges" align= "center">
   <a href="https://t.me/annaplygun">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" width="32" height="32" alt="Telegram Badge"/>
   </a>
