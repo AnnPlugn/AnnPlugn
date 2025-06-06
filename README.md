@@ -18,7 +18,6 @@ As a passionate learner and aspiring software developer, I aim to bridge the gap
 I am deeply interested in the realms of programming and data science, with a particular focus on backend development and machine learning. My academic journey has equipped me with the foundational knowledge needed to tackle complex problems in this rapidly evolving field. I welcome opportunities to collaborate on projects that push the boundaries of what is possible with technology.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnPlugn&layout=compact&langs_count=10&hide=cmake&theme=radical" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnPlugn&theme=radical" alt="GitHub Streak" />
 </p>
 
