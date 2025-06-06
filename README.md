@@ -19,7 +19,7 @@ I am deeply interested in the realms of programming and data science, with a par
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnPlugn&layout=compact&langs_count=10&hide=cmake&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Billy-Nogami&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnPlugn&theme=radical" alt="GitHub Streak" />
 </p>
 
 # ⚡Skills
